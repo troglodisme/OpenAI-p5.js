@@ -1,8 +1,21 @@
-# OpenAI-p5.js
 
-Get started guide to use OpenAI APIs in a p5.js sketch.
+# OpenAI API with P5.js
 
-The OpenAI API lets you interact with the same models that power Chat GPT. Using the API, you will have more granular control and be able to create more specific interactions that don't purely rely on a chatbot system. To explore the possibilities of the API, you can start by playing with the OpenAI Playground over here: [OpenAI Playground](https://platform.openai.com/playground).
+## Introduction to APIs and Large Language Models (LLMs)
+
+APIs, or Application Programming Interfaces, allow different software applications to communicate with each other. They provide a set of rules and protocols for accessing web-based software applications. OpenAI's API lets you interact with powerful language models, enabling you to create specific interactions beyond a chatbot system.
+
+Large Language Models (LLMs) like GPT-3.5 are trained on extensive text data and generate human-like text based on the input they receive. These models use deep learning techniques, specifically transformers, to understand and generate language.
+
+Here's a simplified illustration of how LLMs work:
+
+1. **Input**: You provide a prompt or a query to the model.
+2. **Processing**: The model processes this input using its trained parameters (billions of them!) to generate a response.
+3. **Output**: The model outputs a coherent and contextually relevant response.
+
+![LLM Workflow](images/llm_workflow.png) <!-- Placeholder for an image explaining LLM workflow -->
+
+### Note: To explore the possibilities of the API, you can start by playing with the OpenAI Playground over here: [OpenAI Playground](https://platform.openai.com/playground).
 
 ![OpenAI Playground](https://i.ibb.co/WFzg4Yv/Screenshot-2024-05-19-at-23-36-34.png) <!-- Placeholder for an image of the OpenAI Playground -->
 
@@ -38,22 +51,7 @@ Now that you are registered, log in with your credentials and create a new API K
 
 ![Example 3 Screenshot](images/example3.png) <!-- Placeholder for an image showing Example 3 -->
 
-## 4 - Understanding Large Language Models (LLMs)
+## Additional Resources
 
-Large Language Models (LLMs) like GPT-3.5 are trained on vast amounts of text data and can generate human-like text based on the input they receive. These models use deep learning techniques, specifically transformers, to understand and generate language.
-
-Here's a simplified illustration of how LLMs work:
-
-1. **Input**: You provide a prompt or a query to the model.
-2. **Processing**: The model processes this input using its trained parameters (billions of them!) to generate a response.
-3. **Output**: The model outputs a coherent and contextually relevant response.
-
-![LLM Workflow](images/llm_workflow.png) <!-- Placeholder for an image explaining LLM workflow -->
-
-## Taking this further with Node.js
-
-To integrate OpenAI API with Node.js, you can follow these steps:
-
-1. Install the OpenAI SDK:
-   ```bash
-   npm install openai
+- **OpenAI Documentation**: Familiarize yourself with the API endpoints and capabilities. [OpenAI API Documentation](https://platform.openai.com/docs/introduction)
+- **p5.js Reference**: Learn about the p5.js functions and how to integrate them with your OpenAI API calls. [p5.js Reference](https://p5js.org/reference/)
