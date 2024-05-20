@@ -13,8 +13,6 @@ Here's a simplified illustration of how LLMs work:
 2. **Processing**: The model processes this input using its trained parameters (billions of them!) to generate a response.
 3. **Output**: The model outputs a coherent and contextually relevant response.
 
-![LLM Workflow](images/llm_workflow.png) <!-- Placeholder for an image explaining LLM workflow -->
-
 ### Note: To explore the possibilities of the API, you can start by playing with the OpenAI Playground over here: [OpenAI Playground](https://platform.openai.com/playground).
 
 ![OpenAI Playground](https://i.ibb.co/WFzg4Yv/Screenshot-2024-05-19-at-23-36-34.png) <!-- Placeholder for an image of the OpenAI Playground -->
@@ -35,21 +33,15 @@ Now that you are registered, log in with your credentials and create a new API K
 - If you lose your API key, you can always generate a new one.
 - If you publish your project online or share it with others, make sure to hide your API key (there are different ways of doing that).
 
-![API Key Creation](images/api_key_creation.png) <!-- Placeholder for an image showing API key creation -->
 
 ## 3 - Explore the examples we provided
 
 ### Example 1: Chat with a simple assistant, similarly to how you would do in Chat GPT.
 
-![Example 1 Screenshot](images/example1.png) <!-- Placeholder for an image showing Example 1 -->
+### Example 2: Customize the output, using user input
 
-### Example 2: Customize the output
+### Example 3: Generate an image using Dall-E 3
 
-![Example 2 Screenshot](images/example2.png) <!-- Placeholder for an image showing Example 2 -->
-
-### Example 3: Generate a Story Based on User Inputs
-
-![Example 3 Screenshot](images/example3.png) <!-- Placeholder for an image showing Example 3 -->
 
 ## Additional Resources
 
