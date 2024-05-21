@@ -1,4 +1,4 @@
-![image](https://github.com/troglodisme/OpenAI-p5.js/assets/8257349/3738395d-69f0-4658-bf90-35896f2c54ab)
+
 # OpenAI API with P5.js
 
 ## Introduction
@@ -37,8 +37,7 @@ Now that you are registered, log in with your credentials and create a new API K
 
 
 
-![OpenAI Playground](https://i.ibb.co/K01htKp/Screenshot-2024-05-21-at-12-21-38.png)
-
+![image](https://github.com/troglodisme/OpenAI-p5.js/assets/8257349/3738395d-69f0-4658-bf90-35896f2c54ab)
 
 
 
