@@ -8,16 +8,11 @@ As we explored before, APIs allow different software applications to communicate
 Large Language Models (LLMs) like GPT-3.5 are trained on extensive text data and generate human-like text based on the input they receive. 
 These models use deep learning techniques, specifically transformers, to understand and generate language.
 
-https://ibb.co/3RkFzQ9
-https://ibb.co/RDRc7Lv
-https://ibb.co/1dK7YWK
-https://ibb.co/Kyx3MTt
-
 ## 1 - Setup your OpenAI account
 
 Sign up at [OpenAI Signup](https://platform.openai.com/signup).
 
-It's free to get started, and you'll automatically get some free budget to make API calls. Note that the API is not free, so if you use it extensively, you will need to set up a payment method, and your card will be charged for API calls. More about pricing here: [OpenAI Pricing](https://openai.com/api/pricing/).e
+It's free to get started, and you'll automatically get some free budget to make API calls. Note that the API is not free, so if you use it extensively, you will need to set up a payment method, and your card will be charged for API calls. More about pricing here: [OpenAI Pricing](https://openai.com/api/pricing/).
 
 ## 2 - Create your API Key
 
@@ -73,13 +68,11 @@ const prompt = `Provide a brief overview (just a few phrases) of a person's thou
 
 # Other projects usign GPT Apis
 
-- [Face2Wikipedia, Andreas Refsgaard]([url](https://www.andreasrefsgaard.dk/projects/face2wikipedia/))
+- Face2Wikipedia, Andreas Refsgaard https://www.andreasrefsgaard.dk/projects/face2wikipedia/)
   
-- [This statement is false, Kevin Lee ]([url](https://mngyuan.com/this-statement-is-false ))
+- This statement is false, Kevin Lee https://mngyuan.com/this-statement-is-false 
 
-- ['Dear Humans, Giulio Ammendola 
-]([url](https://www.instagram.com/p/CTz7Srgs5au/?img_index=1)
-)
+- ['Dear Humans, Giulio Ammendola https://www.instagram.com/p/CTz7Srgs5au/?img_index=1
 
 
 
