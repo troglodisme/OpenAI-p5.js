@@ -35,7 +35,7 @@ Now that you are registered, log in with your credentials and create a new API K
 
 ## 3 - Explore the examples we provided
 
-
+Learn more about making OpenAI API requests: https://platform.openai.com/docs/api-reference/making-requests
 
 ![image](https://github.com/troglodisme/OpenAI-p5.js/assets/8257349/3738395d-69f0-4658-bf90-35896f2c54ab)
 
