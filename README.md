@@ -66,13 +66,14 @@ const prompt = `Provide a brief overview (just a few phrases) of a person's thou
 - **OpenAI Documentation**: Familiarize yourself with the API endpoints and capabilities. [OpenAI API Documentation](https://platform.openai.com/docs/introduction)
 - **p5.js Reference**: Learn about the p5.js functions and how to integrate them with your OpenAI API calls. [p5.js Reference](https://p5js.org/reference/)
 
+
 # Other projects usign GPT Apis
 
-- Face2Wikipedia, Andreas Refsgaard https://www.andreasrefsgaard.dk/projects/face2wikipedia/)
+- 'Face2Wikipedia' - Andreas Refsgaard https://www.andreasrefsgaard.dk/projects/face2wikipedia/)
   
-- This statement is false, Kevin Lee https://mngyuan.com/this-statement-is-false 
+- 'This statement is false' - Kevin Lee https://mngyuan.com/this-statement-is-false 
 
-- ['Dear Humans, Giulio Ammendola https://www.instagram.com/p/CTz7Srgs5au/?img_index=1
+- 'Dear Humans' - Giulio Ammendola https://www.instagram.com/p/CTz7Srgs5au/?img_index=1
 
 
 
